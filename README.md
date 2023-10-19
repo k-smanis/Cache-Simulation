@@ -28,7 +28,6 @@ The cache controller uses a write-back, write-allocate policy for cache write mi
 | 12 | 16 |256 | 4096 |
 
 # Credit
-This project was part of my studies at the University of Manchester, 
-in Dr. Peter R Green's "Computer Systems Architecture" class.
+This project was part of my BEng studies.
 The memory access data were also provided as part of this class.
 However, as they are not part of my work, they will not be provided in this repo.
